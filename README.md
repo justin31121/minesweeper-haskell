@@ -1,5 +1,7 @@
 # minesweeper-haskell
 
+![Can not render image](./rsc/example.png)
+
 Minesweeper implementation for the Console. 
 
 ##Dependencies
